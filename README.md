@@ -9,7 +9,7 @@ SQS Queue (Standard) for each vendor (named for the vendor) which will contain a
 AWS SNS/SQS:
 Can be accessed via Account. 
 
-PULL REQ:
+PULL REQs:
 
 
 
