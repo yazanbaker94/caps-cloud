@@ -1,0 +1,16 @@
+{
+  "name": "sns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rawan Nujoom <rawan.nujoom@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.980.0",
+    "faker": "^5.5.3"
+  }
+}
