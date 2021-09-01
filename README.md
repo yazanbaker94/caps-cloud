@@ -9,7 +9,8 @@ SQS Queue (Standard) for each vendor (named for the vendor) which will contain a
 AWS SNS/SQS:
 Can be accessed via Account. 
 
-PULL REQssss:
+PULL REQs:
+https://github.com/yazanbaker94/caps-cloud/pull/1/
 
 
 
